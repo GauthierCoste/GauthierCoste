@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gauthier
+- 🌱 I’m currently learning machine learning
+- 📫 reach me by email
